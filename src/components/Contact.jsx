@@ -10,14 +10,14 @@ function Contact() {
                         Let's work together! Feel free to reach out for collaborations or just a friendly chat.
                     </p>
                     <div className="contact-grid">
-                        <a href="mailto:ahmed_91@zohomail.com" className="contact-card">
+                        <a href="mailto:ahmed@casastek.com" className="contact-card">
                             <div className="contact-icon">📧</div>
                             <div className="contact-label">Email</div>
-                            <div className="contact-value">ahmed_91@zohomail.com</div>
+                            <div className="contact-value">ahmed@casastek.com</div>
                         </a>
-                        <a href="tel:+201111058359" className="contact-card">
+                        <a href="https://wa.me/201111058359" target="_blank" rel="noopener noreferrer" className="contact-card">
                             <div className="contact-icon">📱</div>
-                            <div className="contact-label">Phone</div>
+                            <div className="contact-label">Phone / WhatsApp</div>
                             <div className="contact-value">+20 111 105 8359</div>
                         </a>
                         <div className="contact-card">
