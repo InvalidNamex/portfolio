@@ -1,0 +1,25 @@
+.about {
+    background: var(--bg-secondary);
+}
+
+.about-content {
+    max-width: 900px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-md);
+}
+
+.about-text {
+    font-size: var(--text-lg);
+    color: var(--text-secondary);
+    line-height: 1.8;
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .about-text {
+        font-size: var(--text-base);
+        text-align: left;
+    }
+}
