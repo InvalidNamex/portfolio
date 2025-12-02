@@ -28,6 +28,7 @@ function Hero() {
                         <div className="hero-buttons">
                             <a href="#contact" className="btn btn-primary">Get In Touch</a>
                             <a href="#projects" className="btn btn-secondary">View Projects</a>
+                            <a href="https://flowcv.com/resume/6l24lg369i55" target="_blank" rel="noopener noreferrer" className="btn btn-secondary">Download CV</a>
                         </div>
                     </div>
                 </div>
